@@ -1,71 +1,122 @@
-# Hi there, I'm Arham Mulla! 👋
+# Hey there! I'm Arham Mulla 👋
 
-### Software Engineer | Java & Spring Boot | React.js
+### 💻 Software Engineer | Java Developer | Full-Stack Developer
 
 I'm a Software Engineer with **1.8 years of experience** building full-stack applications using Java, Spring Boot, and React.js.
 
-I enjoy solving problems, building scalable backend services, and developing applications that provide meaningful solutions. I'm always curious to learn new technologies and improve my development skills.
+I enjoy solving problems, developing backend services, and building applications that solve real-world problems. I'm always exploring new technologies and looking for opportunities to grow as a developer.
 
-### 💻 Tech Stack
 
-**Languages**
-- Java
-- JavaScript
-- SQL
+<p align="left">
+  <a href="https://www.linkedin.com/in/arham-mulla/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/arhammulla03/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="mailto:arhammulla03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-**Backend**
-- Spring Boot
-- Spring Framework
-- REST APIs
-- Microservices
-- Node.js
-
-**Frontend**
-- React.js
-- HTML
-- CSS
-
-**Databases & Search**
-- MySQL
-- SQL Server
-- MongoDB
-- OpenSearch
-- Lucene
-
-**Tools & Testing**
-- Git & GitHub
-- Docker
-- Postman
-- JUnit
-- Mockito
-
-### 🚀 What I'm Currently Working On
-
-- Building full-stack applications using Spring Boot and React.js.
-- Exploring AWS and cloud-based application development.
-- Strengthening my knowledge of system design, microservices, and backend development.
-
-### 📌 Featured Projects
-
-- **BotanyBliss** – A full-stack plant information and contribution platform built using Spring Boot, React.js, and MySQL, featuring JWT authentication and an admin approval workflow.
-- **Placement Prep Website** – A web platform developed to help college students prepare for placements and improve their interview readiness.
-- **BotanyBliss** – A full-stack plant information and contribution platform built using Spring Boot, React.js, and MySQL, featuring JWT authentication and an admin approval workflow.
-  
-
-Empty Shelf Detection System – A computer vision project developed using Python, OpenCV, and YOLO to detect empty shelves.
-### 🌱 Currently Learning
-
-- AWS & Cloud Computing
-- System Design
-- Advanced Java and Spring Boot
-- Microservices Architecture
-
-### 🤝 Let's Connect!
-
-- **LinkedIn:** [[Connect with me](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/arham-mulla/)
-- **Email:** arhammulla03@gmail.com
-- **LeetCode:** [arhammulla03@gmail.com](https://leetcode.com/u/arhammulla03/)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+### 🚀 About Me
+
+- 👨‍💻 1.8 years of experience in software development.
+- 🔭 Building full-stack applications using Spring Boot and React.js.
+- 🌱 Currently exploring AWS, cloud computing, and system design.
+- 💡 Interested in backend development, microservices, and scalable applications.
+- 🎯 Always learning and improving my problem-solving skills.
+
+---
+
+### 🛠️ Tech Stack
+
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+**Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+- SQL Server
+- OpenSearch
+- Apache Lucene
+
+**Tools & Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,aws" />
+</p>
+
+**Testing:** JUnit, Mockito
+
+
+### 🌟 Featured Projects
+
+| Project                             | Description                                                                                                | Technologies                 |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 🌿 **BotanyBliss**                  | A plant information and contribution platform with JWT authentication and admin approval workflows.        | Spring Boot, React.js, MySQL |
+| 🎯 **Placement Prep Website**       | A platform designed to help college students prepare for placements and improve their interview readiness. | Web Development              |
+| 📷 **Empty Shelf Detection System** | A computer vision-based system to identify empty shelves using object detection.                           | Python, OpenCV, YOLO         |
+
+---
+
+### 📚 Currently Learning
+
+- ☁️ AWS & Cloud Computing
+- 🏗️ System Design
+- ⚙️ Advanced Java & Spring Boot
+- 🔗 Microservices Architecture
+
+---
+
+### 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArhamMulla&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamMulla&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArhamMulla&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to connecting with fellow developers, discussing technology, and exploring new opportunities.
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arham-mulla/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arham%20Mulla-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:arhammulla03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arhammulla03-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/arhammulla03/">
+    <img src="https://img.shields.io/badge/LeetCode-arhammulla03-orange?style=flat-square&logo=leetcode" />
+  </a>
+</p>
+
+
+⭐ Thanks for visiting my profile!
